@@ -1,3 +1,3 @@
-# Projecto Gestão de Projectos Informáticos 2017/1028
+# Projecto Gestão de Projectos Informáticos IST 2017/1028
 
 # FIM
