@@ -1,0 +1,6 @@
+Project plan postponed 4 days - projecto todo ou só após startup?
+4º sprint? aparece no gantt?
+product owner (que é um k-user) não está disponível quando os k-user não estão?
+tempo indisponível, é suposto ter os k-users e product owner no gantt?
+change requests as 2 semanas extra são a preço de custo ou têm lucro?
+product owner está de férias no fim do 2º sprint, não pode estar no sprint review.
